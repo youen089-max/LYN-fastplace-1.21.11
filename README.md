@@ -1,2 +1,10 @@
 # LYN-fastplace-1.21.11
-fastplace of Minecraft 1.21.11
+
+Minecraft 1.21.11 的 FastPlace 模組。
+
+## 使用方式
+- **FASTPLACE 預設切換鍵**：`K`
+- 可於 **遊戲設定面板** 自訂按鍵
+
+## 注意事項
+- *此模組於部分伺服器內為外掛範疇，請自行承擔後果，包括但不限於在該伺服器內帳號或 IP 封鎖*
